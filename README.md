@@ -26,7 +26,7 @@ What I had to do:
     
 * Bonus Part: Extended Features
 For the bonus part, I expanded ft_printf with:
-  * Flags handling (like - for left-justification, 0 for zero-padding)
+  * Flags handling (like `-` for left-justification, `0` for zero-padding)
   * Field width and precision control
   * Handling combinations of flags, width, and precision in different orders
   * More complex formatting logic for various edge cases
